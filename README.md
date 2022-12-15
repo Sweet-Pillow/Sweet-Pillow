@@ -7,4 +7,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sweet-pillow&langs_count=8)](https://github.com/sweet-pillow/github-readme-stats)
 
-Estudante de Engenharia da Computação na UFC, viciado em Python e Música.
+Sou Daniel, estudante de Engenharia da Computação. Amo programação e no momento busco me especializar em tecnologias web foco em back-end, mas também estudo desenvolvimento desktop usando C# com Windows Forms. As tecnologias e linguagens que me sinto mais confortavel são: C#, C, Python, JavaScript, JQuery, ASP.NET Core, React JS e Windows Forms.
