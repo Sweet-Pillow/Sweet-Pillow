@@ -1,8 +1,6 @@
 <h1 align="center">Ola 👋, eu sou Daniel Alves Farias</h1>
 <h3 align="center">Sou estudante de Engenharia da Computação, amo programação e no momento busco me especializar em tecnologias web foco em back-end.</h3>
 
-- 🔭 Atualmente trabalho no **Centro Universitário Inta**
-
 <h3 align="left">Entre em contato por:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/daniel-alves-07636a236" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="daniel-alves-07636a236" height="30" width="40" /></a>
